@@ -1,0 +1,15 @@
+c:\Users\namith.muttharamar1\Documents\programmering\slutprojekt\slutprojekt\bin\Debug\net7.0\slutprojekt.exe
+c:\Users\namith.muttharamar1\Documents\programmering\slutprojekt\slutprojekt\bin\Debug\net7.0\slutprojekt.deps.json
+c:\Users\namith.muttharamar1\Documents\programmering\slutprojekt\slutprojekt\bin\Debug\net7.0\slutprojekt.runtimeconfig.json
+c:\Users\namith.muttharamar1\Documents\programmering\slutprojekt\slutprojekt\bin\Debug\net7.0\slutprojekt.dll
+c:\Users\namith.muttharamar1\Documents\programmering\slutprojekt\slutprojekt\bin\Debug\net7.0\slutprojekt.pdb
+c:\Users\namith.muttharamar1\Documents\programmering\slutprojekt\slutprojekt\obj\Debug\net7.0\slutprojekt.csproj.AssemblyReference.cache
+c:\Users\namith.muttharamar1\Documents\programmering\slutprojekt\slutprojekt\obj\Debug\net7.0\slutprojekt.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\namith.muttharamar1\Documents\programmering\slutprojekt\slutprojekt\obj\Debug\net7.0\slutprojekt.AssemblyInfoInputs.cache
+c:\Users\namith.muttharamar1\Documents\programmering\slutprojekt\slutprojekt\obj\Debug\net7.0\slutprojekt.AssemblyInfo.cs
+c:\Users\namith.muttharamar1\Documents\programmering\slutprojekt\slutprojekt\obj\Debug\net7.0\slutprojekt.csproj.CoreCompileInputs.cache
+c:\Users\namith.muttharamar1\Documents\programmering\slutprojekt\slutprojekt\obj\Debug\net7.0\slutprojekt.dll
+c:\Users\namith.muttharamar1\Documents\programmering\slutprojekt\slutprojekt\obj\Debug\net7.0\refint\slutprojekt.dll
+c:\Users\namith.muttharamar1\Documents\programmering\slutprojekt\slutprojekt\obj\Debug\net7.0\slutprojekt.pdb
+c:\Users\namith.muttharamar1\Documents\programmering\slutprojekt\slutprojekt\obj\Debug\net7.0\slutprojekt.genruntimeconfig.cache
+c:\Users\namith.muttharamar1\Documents\programmering\slutprojekt\slutprojekt\obj\Debug\net7.0\ref\slutprojekt.dll
